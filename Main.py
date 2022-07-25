@@ -1,0 +1,37 @@
+print("Welcome to madlibs! Here is one for you:\n A hike in the mountains!")
+noun = str("Add a noun! ")
+adj = str("Add an adjective! ")
+food = str("Add a food! ")
+part_of_body = str("Add a part of the body! ")
+verbing = str("Add a verb ending in ing! ")
+verb = str("Add a verb! ")
+color = str("Add a color! ")
+animal = str("Add an animal! ")
+
+aa1 = input(noun)
+aa2 = input(adj)
+aa3 = input(food)
+aa4 = input(food)
+aa5 = input(part_of_body)
+aa6 = input(noun)
+aa7 = input(verbing)
+aa8 = input(verb)
+aa9 = input(color)
+aa10 = input(color)
+aa11 = input(adj)
+aa12 = input(noun)
+aa13 = input(adj)
+aa14 = input(animal)
+aa15 = input(adj)
+aa16 = input(animal)
+aa17 = input(verb)
+aa18 = input(adj)
+aa19 = input(verb)
+aa20 = input(noun)
+print("Our "+ aa1 + " are packed for a hike in the " + aa2 + " Mountains! We are carrying a picnic lunch with "+ aa3 + " and " +aa4
+      + " on our "+aa5 +", and I have a(n) " + aa6 + " for " + aa7 + " photos. We will " + aa8 + " past meadows filled with " +
+      aa9 + " and " + aa10 + " flowers, and pass a " + aa11 + " waterfall that sounds like a(n) " + aa12 +
+      ". Many animals live in the mountains, like the " + aa13 + " " + aa14 + " and " + aa15 + " " + aa16 + ". It's fun to "+
+      aa17 + " them, but important to be safe and keep a " + aa18 + " distance. The higher we " + aa19 +
+      ", the smaller the wildflower meadow and waterfall appear; we may even see " + aa20 + " still on the ground from last winter.")
+input("\n\n Press enter to close this box")
